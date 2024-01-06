@@ -1,0 +1,99 @@
+body{
+    background-image: url(R.jpeg );
+    background-size: 200%;
+    
+    text-align: center;
+    
+    
+
+
+}
+input{
+    background-color: rgb(226, 165, 239);
+    text-align: center;
+    width: 40%;
+    height: 30px;}
+
+    
+
+
+h1{
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+    line-height: 60px;
+    text-shadow: 100px;
+    width: 100%;
+    
+
+    
+    
+}
+h4{
+    font-size: 15PX;
+    color: aliceblue;
+    text-align: center;
+    font-style: normal;
+    font-stretch:20PX ;
+    color: aliceblue;
+    text-align: center;
+    width: 60%;
+    
+
+}
+
+
+select{
+    background-color: blueviolet;
+    width: 38%;
+    height: 30px;
+}
+h3{
+    text-indent: -100px;
+}
+
+a{
+    color:blue;
+    size: 100px;
+}
+button{
+    
+    size: 300px;
+    background-color: darkgoldenrod;
+    width: 200px;
+    height: 40px;
+}
+h5{
+    width: 80%;
+    color: antiquewhite;
+    text-align: center;
+    font-size: large;
+}
+h3{
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+    text-align: center;
+    padding: 15px;
+    line-height: 50px;
+    text-shadow: 100px;
+    width:105%;
+    
+}
+input[type=checkbox]{
+    margin: 4px 0 0;
+line-height: normal;
+width: 20px;
+height: 20px
+    
+}
+input[type=radio]{
+    margin: 4px 0 0;
+    line-height: normal;
+    width: 20px;
+    height: 20px
+}
+
+
